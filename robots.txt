@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-e5uryh.indocuan.space/sitemap.xml
